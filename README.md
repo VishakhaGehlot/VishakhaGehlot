@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yash Bansal</h1>
+<h1 align="center">Hi 👋, I'm Vishakha Gehlot</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthusiast
+Aspiring Software Engineer | Web Developer | MERN Stack 
 </h3>
 
 <br/>
@@ -10,18 +10,18 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **Web Development and Machine Learning Projects**  
+- 🔭 I’m currently working on **Web Development Projects**  
 
 - 🌱 I’m currently learning **Advanced DSA, MERN Stack, Cloud & System Design**  
 
 - 👯 I’m looking to collaborate on **Open Source & Real-World Projects**  
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++, Python, ML**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++**  
 
-- 📫 How to reach me: **yashbansal4065@gmail.com**  
+- 📫 How to reach me: **vishakhagehlot1@gmail.com**  
 
 - 📄 Want to know about my expertise:  
-  👉 **[Click here to view my resume](https://drive.google.com/file/d/1QFWiQLWrg-ZpVzTWMPxfbzw7MqwT3KsC/view?usp=sharing)**  
+  👉 **[Click here to view my resume](https://drive.google.com/file/d/1NGKALgpaKGaRGGUVabhMIblYuGuc2Q3v/view?usp=drivesdk)**  
 
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*  
 
@@ -33,25 +33,18 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/yashbansal78/" target="_blank">
+<a href="https://www.linkedin.com/in/vishakhagehlot/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/ya78bansal" target="_blank">
+<a href="https://github.com/vishakhagehlot" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/yashbansal78/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:yashbansal4065@gmail.com">
+<a href="mailto:vishakhagehlot1@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/yashbansal4065/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-</a>
 
 </p>
 
@@ -63,7 +56,7 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 ## 🛠 Languages and Tools  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,mysql,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,mysql,git,github,vscode" />
 </p>
 
 <br/>
@@ -72,72 +65,48 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 ## 🚀 Featured Projects  
 
-### 🔹 LRU Task Manager  
-**Tech Stack:** JavaScript  
-- Implemented LRU cache logic for efficient task management  
-- Focused on performance and clean code design  
+### 🔹 Mini SmartCRM  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+
+- Built a basic CRM system to manage customers and leads  
+- Implemented authentication & CRUD operations  
+- Designed responsive dashboard UI 
 
 <br/>
 
-### 🔹 HiddenHeu – Discover Hidden Treasures Near You  
-**Tech Stack:** MERN Stack  
-- Location-based discovery platform  
-- City-wise exploration with modern UI  
+---
+## 💼 Internships  
 
-<br/>
-
-### 🔹 Smart Traffic Violation Reporter  
-**Tech Stack:** React, Node.js, Maps API  
-- Street-level traffic violation reporting  
-- Real-time location-based inputs  
-
-<br/>
-
-### 🔹 Machine Learning Projects  
-**Tech Stack:** Python, Jupyter Notebook  
-- Classification, clustering & prediction models  
-- Practical ML implementations  
+- 💻 Web Development Intern — SkillCraft Technology  
+- 💻 Web Development Intern — Brainwave Matrix Solutions  
+- 💻 Frontend Intern — IBM  
 
 <br/>
 
 ---
 
-## 📊 GitHub Stats  
+## 🧠 Learning & Growth  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ya78bansal&show_icons=true&theme=tokyonight" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ya78bansal&theme=tokyonight" />
-</p>
+- 📌 Practicing **Frontend Development daily**  
+- 📌 Learning **Backend & MERN Stack**
+- 📌 Regularly solving **DSA & LeetCode problems**
+- 📌 Building projects to strengthen concepts
+- 📌 Improving code quality & documentation 
 
 <br/>
 
 ---
 
-## 🧠 Problem Solving & Learning  
+## 🏆 Certifications  
 
-- 📌 Regularly practicing **DSA & LeetCode**  
-- 📌 Building projects to apply concepts  
-- 📌 Improving code quality & documentation  
-
-<br/>
-
----
-
-## ☕ Support  
-
-If you like my work and want to support me:
-
-<a href="https://www.buymeacoffee.com/YOURID">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=YOURID&button_colour=FFDD00&font_colour=000000" />
-</a>
+- ✔️ Project Management Fundamentals – IBM  
+- ✔️ Web Development Fundamentals – IBM  
+- ✔️ Python Programming – NSDC  
+- ✔️ JavaScript Essentials – Cisco  
 
 <br/>
 
 ---
+
 
 <h3 align="center">✨ Thank you for visiting my profile ✨</h3>
