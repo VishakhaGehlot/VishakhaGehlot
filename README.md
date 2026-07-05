@@ -21,7 +21,7 @@ Aspiring Software Engineer | Web Developer | MERN Stack
 - 📫 How to reach me: **vishakhagehlot1@gmail.com**  
 
 - 📄 Want to know about my expertise:  
-  👉 **[Click here to view my resume](https://drive.google.com/file/d/1NGKALgpaKGaRGGUVabhMIblYuGuc2Q3v/view?usp=drivesdk)**  
+  👉 **[Click here to view my resume](https://drive.google.com/file/d/1DDVwiy9XptVhsIsck5yEvPeNW5BIQo__/view?usp=drivesdk)**  
 
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*  
 
