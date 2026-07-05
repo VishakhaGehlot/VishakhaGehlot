@@ -16,7 +16,7 @@ Aspiring Software Engineer | Web Developer | MERN Stack
 
 - 👯 I’m looking to collaborate on **Open Source & Real-World Projects**  
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js SQL, C++**  
 
 - 📫 How to reach me: **vishakhagehlot1@gmail.com**  
 
@@ -65,18 +65,19 @@ Aspiring Software Engineer | Web Developer | MERN Stack
 
 ## 🚀 Featured Projects  
 
-### 🔹 Mini SmartCRM  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-
-- Built a basic CRM system to manage customers and leads  
-- Implemented authentication & CRUD operations  
-- Designed responsive dashboard UI 
+### 🔹Enterprise ERP Management System
+Tech Stack: Node.js, Express.js, EJS, MongoDB, Bootstrap
+• Contributed to the development of a SaaS-based ERP application for managing employees, projects, attendance, and business workflows.
+• Developed frontend and backend modules using Node.js, Express.js, EJS, and MongoDB.
+• Worked on authentication, CRUD operations, database management, session management, and business logic implementation.
+• Participated in debugging, testing, and improving application functionality in a real-world development environment.
+ 
 
 <br/>
 
 ---
 ## 💼 Internships  
-
+- 💻 Project Intern — Real Bell Technologies
 - 💻 Web Development Intern — SkillCraft Technology  
 - 💻 Web Development Intern — Brainwave Matrix Solutions  
 - 💻 Frontend Intern — IBM  
@@ -89,7 +90,6 @@ Aspiring Software Engineer | Web Developer | MERN Stack
 
 - 📌 Practicing **Frontend Development daily**  
 - 📌 Learning **Backend & MERN Stack**
-- 📌 Regularly solving **DSA & LeetCode problems**
 - 📌 Building projects to strengthen concepts
 - 📌 Improving code quality & documentation 
 
